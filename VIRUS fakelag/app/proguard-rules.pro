@@ -1,0 +1,1 @@
+## ProGuard rules for VIRUS fakelag app
